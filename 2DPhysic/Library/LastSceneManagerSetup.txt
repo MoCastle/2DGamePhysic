@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scence/SenceFortEST.unity
+  isLoaded: 1
+  isActive: 1
